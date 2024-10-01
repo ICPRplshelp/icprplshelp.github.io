@@ -1,4 +1,4 @@
-# ICPR's Project List
+# My Project List
 
 [GitHub Profile](https://github.com/icprplshelp/)
 
